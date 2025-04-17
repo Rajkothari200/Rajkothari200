@@ -1,23 +1,8 @@
-<!--
-**Rajkothari200/Rajkothari200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi, I'm Raj Kothari 👋</h1>
 
 <p align="center">
-  I'm a passionate tech enthusiast who loves building intelligent robots, crafting elegant code, and designing beautiful user experiences.<br>
-  From representing India internationally to designing CAD models and developing real-world applications — I’m always exploring the next big thing in tech.
+  🤖 I'm a passionate tech enthusiast who loves building intelligent robots, crafting elegant code, and designing beautiful user experiences.<br> 
+  💡 I’m always exploring the next big thing in tech.
 </p>
 
 ---
@@ -29,10 +14,24 @@ Here are some ideas to get you started:
 - 🎮 A fan of turning ideas into interactive, visual experiences
 - ✈️ Represented India at **FIRST Robotics Asia-Pacific Championship** and won **Inspire Award** in Sydney, Australia
 
+---
+
 ### 📲 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kothari200)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-username)  
+
+---
+
+### 🏆 Achievements
+
+🎖️ **India National Champion (Robotics)**  
+- Represented 🇮🇳 **Team India at Sydney** for the FIRST Championship.
+
+🥇 **First Prize at TechSkript 2025 - Research Paper Presentation**  
+- Presented our first research paper titled **Gesto-Drive – Real-Time HCI for Peripheral-Free Gaming**
+
+---
 
 ### 💻 Tech Stack
 
@@ -92,5 +91,5 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-⚡ “Code. Debug. Fly. Repeat.” ⚡
+🚀 Dream. Design. Deploy 🚀
 </p>
