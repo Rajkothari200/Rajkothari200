@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Raj Kothari 👋</h1>
 
 <p align="center">
-  🤖 I'm a passionate tech enthusiast who loves building intelligent robots, crafting elegant code, and designing beautiful user experiences.<br> 
-  💡 I’m always exploring the next big thing in tech.
+  🤖 I'm a passionate tech enthusiast who loves building intelligent robots and designing elegant user experiences<br>
+  💡 Always exploring the next big thing in innovation and creativity.
 </p>
 
 ---
